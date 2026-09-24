@@ -1,0 +1,12 @@
+{
+  "name": "kleenest-bistro-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx wrangler pages dev .",
+    "deploy": "npx wrangler pages deploy . --project-name kleenest-bistro"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
