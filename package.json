@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "npx wrangler pages dev .",
-    "deploy": "npx wrangler pages deploy . --project-name kleenest-bistro",
-    "build": "exit 1"
+    "deploy": "npx wrangler pages deploy . --project-name kleenest-bistro"
   },
   "devDependencies": {
     "wrangler": "^4.0.0"
