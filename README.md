@@ -6,7 +6,7 @@ A custom, responsive static restaurant website designed for direct deployment to
 
 The public Facebook page could not be read automatically. Review these owner-controlled details:
 
-1. **Address** in `index.html` — currently “Quezon Avenue, Zone 1, Digos City”.
+1. **Address** in `index.html` — currently “Quezon Avenue, Zone 1, Digos City143”.
 2. **Hours** in `index.html` and `app.js` — currently 10:00 AM–10:00 PM daily.
 3. **Menu and prices** in `menu-data.js` — drink prices were transcribed from a historical public menu photo; verify all current pricing.
 4. **Messenger link** — currently uses Facebook Page ID `61568656615106`.
